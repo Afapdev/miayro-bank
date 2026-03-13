@@ -1,0 +1,8 @@
+miayro,DEPOSIT,5000000,5000000,
+miayro,WITHDRAW,500000,4500000,
+micheal A robinson,DEPOSIT,78000000,78000000,
+micheal A robinson,TRANSFER_OUT,6000000,72000000,miayro
+miayro,TRANSFER_IN,6000000,10500000,micheal A robinson
+micheal A robinson,WITHDRAW,60000000,12000000,
+micheal A robinson,TRANSFER_OUT,6000000,6000000,miayro
+miayro,TRANSFER_IN,6000000,16500000,micheal A robinson
